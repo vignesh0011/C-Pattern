@@ -43,12 +43,9 @@ public class Pascal
                 Console.Write("{0}   ", c);
             }
             Console.Write("\n");
-        }
-    }
-}     
+        }}}     
 ```
 ## Output:
 ![image](https://github.com/vignesh0011/C-Pattern/assets/53014593/4cc668b1-4131-4f47-8643-70d8e0abc4b1)
-
 ## Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
